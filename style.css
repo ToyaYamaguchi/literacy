@@ -1,2 +1,7 @@
 em{color:green;}
-th{color:white,background:orange;}
+
+th{color:white;
+   background:orange;}
+
+table,th,td{
+  border
